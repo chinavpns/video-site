@@ -10,7 +10,7 @@
 
 * **<a href="https://wallvpn.com/go/purevpn/">PureVPN（价格便宜，$2.11/月）</a>**：成立于2007年，总部位于中国香港。虽然在翻墙稳定性和连接速度等方面不如ExpressVPN强大，但也一直可以在中国大陆使用。PureVPN在70个国家和88个地区部署了6500多台服务器，提供独立专属IP地址，支持最多10台设备同时登录使用，价格低至2.11美金/月，并提供24小时在线客服。（综合评分：9.5/10）
 
-OK，以上三款都是非常靠谱的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，它们不仅翻墙稳定、安全性高、速度快，而且对视频网站的支持特别给力，能让你流畅观看高清甚至4K内容，完全不用担心卡顿和缓冲的烦恼。更多详情请查看：<a href="https://github.com/chinavpns/chinavpns.github.io">科学上网指南</a>。
+OK，以上三款都是非常靠谱的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，它们不仅翻墙稳定、安全性高、速度快，而且对视频网站的支持特别给力，能让你流畅观看高清甚至4K内容，完全不用担心卡顿和缓冲的烦恼。更多详情请查看：<a href="https://chinavpns.github.io/">科学上网指南</a>。
 
 ## 一、国外付费视频网站推荐
 
