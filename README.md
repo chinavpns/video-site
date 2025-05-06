@@ -238,10 +238,10 @@ ExpressVPN翻墙非常稳定，安全性高，连接速度为业内最快。在�
 
 **翻墙备选：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌VPN，支持支付宝付款</a>** 
 
-StrongVPN是一款非常老牌的VPN软件，虽然在翻墙稳定性和连接速度方面略逊于ExpressVPN，但仍能满足绝大多数中国用户的翻墙需求。StrongVPN安全性很高，支持WireGuard协议，在30多个国家和地区部署了950多台服务器，可流畅播放Netflix、YouTube等平台上的高清视频，兼容常见设备，最多支持12台设备同时登录使用。它价格也比较实惠，每月仅需3.97美元，并支持支付宝付款，同时提供24小时在线客服，随时为用户解决问题。更多详情请查看：<a href="https://github.com/chinavpns/strongvpn">StrongVPN怎么样？</a>。
+StrongVPN虽然在翻墙稳定性和连接速度方面略逊于ExpressVPN，但仍能满足绝大多数中国用户的翻墙需求。StrongVPN安全性很高，支持WireGuard协议，在30多个国家和地区部署了950多台服务器，可流畅播放Netflix、YouTube等平台上的高清视频，兼容常见设备，最多支持12台设备同时登录使用。它价格也比较实惠，每月仅需3.97美元，并支持支付宝付款，同时提供24小时在线客服，随时为用户解决问题。更多详情请查看：<a href="https://github.com/chinavpns/strongvpn">StrongVPN怎么样？</a>。
 
 **翻墙备选：<a href="https://wallvpn.com/go/purevpn/">PureVPN - 价格便宜，$2.11/月</a>**
 
 PureVPN成立于2007年，总部位于中国香港。虽然在翻墙稳定性和连接速度等方面不如ExpressVPN强大，但也一直可以在中国大陆使用。PureVPN在70个国家和88个地区部署了6500多台服务器，提供独立专属IP地址，支持最多10台设备同时登录使用，价格低至2.11美金/月，并提供24小时在线客服。更多详情请查看：<a href="https://github.com/chinavpns/purevpn">PureVPN怎么样？</a>。
 
-以上三款<a href="https://chinavpns.github.io/">翻墙VPN</a>在全球都部署了大量的服务器节点，通过切换VPN服务器位置，你可以伪装成各国/地区的居民，例如美国、日本、韩国、香港等，从而解除地域限制，尽情享受全球的视频内容。如果你是VPN新手，建议先尝试ExpressVPN，它的翻墙非常稳定，安全性高，连接速度也是最快的，而且还提供24小时在线客服和为期30天的退款保证。
+总得来说，以上三款<a href="https://chinavpns.github.io/">翻墙VPN</a>在全球都部署了大量的服务器节点，通过切换VPN服务器位置，你可以伪装成各国/地区的居民，例如美国、日本、韩国、香港等，从而解除地域限制，尽情享受全球的视频内容。如果你是VPN新手，建议先尝试ExpressVPN，它的翻墙非常稳定，安全性高，连接速度也是最快的，而且还提供24小时在线客服和为期30天的退款保证。
