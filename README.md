@@ -1,6 +1,6 @@
 # 国外视频网站推荐：2025年最受欢迎的海外视频网站汇总
 
-<p align="center">最近更新于：2025年5月18日</p>
+<p align="center">最近更新于：2025年7月6日</p>
 
 ![国外视频网站推荐：2025年最受欢迎的海外视频网站汇总](https://raw.githubusercontent.com/chinavpns/video-site/refs/heads/main/image/%E6%B5%B7%E5%A4%96%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
@@ -339,3 +339,9 @@ PureVPN成立于2007年，总部位于中国香港。虽然在翻墙稳定性和
 * <a href="https://github.com/chinavpns/youtube-download">油管视频下载</a>：推荐几个最好用的Youtube视频下载工具和Youtube在线下载网站。
 
 * <a href="https://github.com/chinavpns/hot-site">翻墙后看什么</a>：翻墙必看的国外社交、视频、音乐、新闻、游戏、学习、购物等网站推荐。
+
+* <a href="https://github.com/chinavpns/overseas-live">国外直播平台</a>：详细盘点全球范围内最受欢迎的几大海外直播平台，并深入介绍它们各自的特色和优势。
+
+* <a href="https://github.com/chinavpns/torrent-site">BT种子网站</a>：除了推荐BT网站外，还会介绍几款好用的BT下载工具，帮助大家更好地下载BT种子资源。
+
+* <a href="https://github.com/chinavpns/movie-site">免费电影网站</a>：推荐最新海外免费看片网站，无广告、无需会员、速度快，支持中文字幕和高清播放。
