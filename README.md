@@ -1,6 +1,6 @@
 # 国外视频网站推荐：2025年最受欢迎的海外视频网站汇总
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![国外视频网站推荐：2025年最受欢迎的海外视频网站汇总](https://raw.githubusercontent.com/chinavpns/video-site/refs/heads/main/image/%E6%B5%B7%E5%A4%96%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
